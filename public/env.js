@@ -14,7 +14,7 @@ window.env = {
   "CONDA_PROMPT_MODIFIER": "(base) ",
   "TERM_PROGRAM_VERSION": "447",
   "COLOR": "1",
-  "TERM_SESSION_ID": "9370C1FE-B5F5-42B6-8D42-D864C7D3A0DE",
+  "TERM_SESSION_ID": "D11E5FD7-B041-4237-A5A3-BB3F41FEF32C",
   "npm_config_noproxy": "",
   "npm_config_local_prefix": "/Users/macbookair/Desktop/WebArticles-develop/Web",
   "NVM_DIR": "/Users/macbookair/.nvm",
